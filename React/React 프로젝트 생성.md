@@ -7,7 +7,7 @@
 
 ## 📘로컬에서 생성
 
--   외부에서 파일 다운로드
+-   외부에서 파일 다운로드 
 -   Create React App 이용 [참고](https://create-react-app.dev/)
 -   Vite 이용 [참고](https://ko.vitejs.dev/guide/)
 
